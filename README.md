@@ -14,7 +14,7 @@ This project investigates missing data patterns in U.S. gun violence datasets an
 ## 🧠 Methods
 - **Techniques:** Mean/Median Imputation, Regression-based Imputation, Multiple Imputation (MICE)  
 - **Libraries:** pandas, numpy, scikit-learn, statsmodels, seaborn, matplotlib 
-- **Evaluation Metrics:** _R_², MSE, _p_ value 
+- **Evaluation Metrics:** R², MSE, _p_ value 
 
 ---
 
