@@ -1,6 +1,6 @@
 # Handling Missing Data in Gun Violence Data
 
-**Authors:** Saeyan Yun, Curt Fulwider, Hunhui Na
+**Authors:** Saeyan Yun, Curt Fulwider, Hunhui Na  
 **Tool:** Google Colab (Python)  
 **Date:** Fall 2023  
 
